@@ -19,6 +19,7 @@ Bundle 'Shougo/neosnippet'
 Bundle 'scrooloose/syntastic'
 Bundle 'majutsushi/tagbar'
 Bundle 'walm/jshint.vim'
+Bundle 'hynek/vim-python-pep8-indent'
 
 " vim-scripts repos
 Bundle 'L9'

@@ -17,6 +17,7 @@ Bundle 'rstacruz/sparkup', {'rtp': 'vim/'}
 Bundle 'Shougo/neocomplete'
 Bundle 'Shougo/neosnippet'
 Bundle 'scrooloose/syntastic'
+Bundle 'majutsushi/tagbar'
 
 " vim-scripts repos
 Bundle 'L9'

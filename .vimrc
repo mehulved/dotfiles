@@ -16,6 +16,8 @@ Bundle 'Lokaltog/vim-easymotion'
 Bundle 'rstacruz/sparkup', {'rtp': 'vim/'}
 Bundle 'Shougo/neocomplete'
 Bundle 'Shougo/neosnippet'
+Bundle 'scrooloose/syntastic'
+
 " vim-scripts repos
 Bundle 'L9'
 Bundle 'FuzzyFinder'

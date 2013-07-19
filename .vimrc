@@ -39,6 +39,9 @@ set t_Co=256
 " Detect filetype and set correct indentation
 filetype plugin indent on
 
+" set syntax highlight on
+syntax on
+
 " neocomplete
 let g:neocomplete#enable_at_startup = 1
 

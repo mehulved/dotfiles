@@ -21,6 +21,7 @@ Bundle 'majutsushi/tagbar'
 Bundle 'walm/jshint.vim'
 Bundle 'hynek/vim-python-pep8-indent'
 Bundle 'klen/python-mode'
+Bundle 'davidhalter/jedi-vim'
 
 " vim-scripts repos
 Bundle 'L9'
@@ -96,7 +97,7 @@ EOF
 " ]]            Jump on next class or function (normal, visual, operator modes)
 " [M            Jump on previous class or method (normal, visual, operator modes)
 " ]M            Jump on next class or method (normal, visual, operator modes)
-let g:pymode_rope = 1
+let g:pymode_rope = 0
 
 " Documentation
 let g:pymode_doc = 1

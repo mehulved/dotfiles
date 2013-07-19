@@ -18,6 +18,7 @@ Bundle 'Shougo/neocomplete'
 Bundle 'Shougo/neosnippet'
 Bundle 'scrooloose/syntastic'
 Bundle 'majutsushi/tagbar'
+Bundle 'walm/jshint.vim'
 
 " vim-scripts repos
 Bundle 'L9'
@@ -60,3 +61,6 @@ endif
 
 " tagbar
 nmap <F8> :TagbarToggle<CR>
+
+" JSHint shortcut
+nmap <F12> :JSHint<CR>

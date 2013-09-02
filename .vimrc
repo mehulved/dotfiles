@@ -22,6 +22,8 @@ Bundle 'walm/jshint.vim'
 Bundle 'hynek/vim-python-pep8-indent'
 Bundle 'klen/python-mode'
 Bundle 'davidhalter/jedi-vim'
+Bundle 'tpope/vim-dispatch'
+Bundle 'jpalardy/vim-slime'
 
 " vim-scripts repos
 Bundle 'L9'
